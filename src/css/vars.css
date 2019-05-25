@@ -1,7 +1,7 @@
 :root {
   /* primary */
   --color-brand-black: #333;
-  --color-brand-red: #cc0000;
+  --color-brand-red: #c00;
   --color-brand-red-dark: #820000;
   --color-brand-red-tint: #fcdedf;
   --color-brand-white: #fff;
@@ -9,24 +9,19 @@
   --color-brand-light-blue: #00ace0;
   --color-footer-black: #242424;
   --color-text: #333;
-
   --color-navbar-bg: var(--color-brand-black);
   --color-navbar-text: var(--color-brand-white);
   --color-footer-bg: var(--color-footer-black);
   --color-footer-text: var(--color-brand-white);
-
   --z-index-footer: 2;
   --weight-bold: 700;
   --weight-light: 300;
   --weight-normal: 400;
   --weight-medium: 500;
-
   --width-main-gutter: 2.5rem;
   --width-container: 80rem;
   --width-container-gutter: 1.25rem;
-
   --color-link: var(--color-brand-red-dark);
-
   --height-spacer: 0.5rem;
   /* --height-navbar: 4rem; */
   --height-navbar: 0.75rem;

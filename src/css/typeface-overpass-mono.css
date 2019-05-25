@@ -1,21 +1,21 @@
 @font-face {
-  font-family: "Overpass Mono";
+  font-family: 'Overpass Mono';
   font-style: normal;
   font-weight: 400;
-  src: local("Overpass Mono"), local("OverpassMono-Regular"),
+  src:
     url(~typeface-overpass-mono/files/overpass-mono-latin-400.woff2)
-      format("woff2"),
+    format('woff2'),
     url(~typeface-overpass-mono/files/overpass-mono-latin-400.woff)
-      format("woff");
+    format('woff');
 }
 
 @font-face {
-  font-family: "Overpass Mono";
+  font-family: 'Overpass Mono';
   font-style: normal;
   font-weight: 600;
-  src: local("Overpass Mono Medium"), local("OverpassMono-Medium"),
+  src:
     url(~typeface-overpass-mono/files/overpass-mono-latin-600.woff2)
-      format("woff2"),
+    format('woff2'),
     url(~typeface-overpass-mono/files/overpass-mono-latin-600.woff)
-      format("woff");
+    format('woff');
 }

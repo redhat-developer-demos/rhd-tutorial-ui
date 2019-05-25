@@ -1,35 +1,37 @@
 @font-face {
-  font-family: "Overpass";
+  font-family: 'Overpass';
   font-style: normal;
   font-weight: 400;
-  src: local("Overpass Regular"), local("Overpass-Regular"),
-    url(~typeface-overpass/files/overpass-latin-400.woff2) format("woff2"),
-    url(~typeface-overpass/files/overpass-latin-400.woff) format("woff");
+  src:
+    url(~typeface-overpass/files/overpass-latin-400.woff2) format('woff2'),
+    url(~typeface-overpass/files/overpass-latin-400.woff) format('woff');
 }
 
 @font-face {
-  font-family: "OverPass";
+  font-family: 'OverPass';
   font-style: italic;
   font-weight: 400;
-  src: local("OverPass Italic"), local("OverPass-Italic"),
-    url(~typeface-overpass/files/overpass-latin-400italic.woff2) format("woff2"),
-    url(~typeface-overpass/files/overpass-latin-400italic.woff) format("woff");
+  src:
+    url(~typeface-overpass/files/overpass-latin-400italic.woff2)
+    format('woff2'),
+    url(~typeface-overpass/files/overpass-latin-400italic.woff) format('woff');
 }
 
 @font-face {
-  font-family: "OverPass";
+  font-family: 'OverPass';
   font-style: normal;
   font-weight: 600;
-  src: local("OverPass Medium"), local("OverPass-Medium"),
-    url(~typeface-overpass/files/overpass-latin-600.woff2) format("woff2"),
-    url(~typeface-overpass/files/overpass-latin-600.woff) format("woff");
+  src:
+    url(~typeface-overpass/files/overpass-latin-600.woff2) format('woff2'),
+    url(~typeface-overpass/files/overpass-latin-600.woff) format('woff');
 }
 
 @font-face {
-  font-family: "OverPass";
+  font-family: 'OverPass';
   font-style: italic;
   font-weight: 600;
-  src: local("OverPass Medium Italic"), local("OverPass-MediumItalic"),
-    url(~typeface-overpass/files/overpass-latin-600italic.woff2) format("woff2"),
-    url(~typeface-overpass/files/overpass-latin-600italic.woff) format("woff");
+  src:
+    url(~typeface-overpass/files/overpass-latin-600italic.woff2)
+    format('woff2'),
+    url(~typeface-overpass/files/overpass-latin-600italic.woff) format('woff');
 }
