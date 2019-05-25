@@ -7495,6 +7495,16 @@ typedarray@^0.0.6:
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
   integrity sha1-hnrHTjhkGHsdPUfZlqeOxciDB3c=
 
+typeface-overpass-mono@^0.0.71:
+  version "0.0.71"
+  resolved "https://registry.yarnpkg.com/typeface-overpass-mono/-/typeface-overpass-mono-0.0.71.tgz#9bfeb52ab8a2f509b7c414699daeeec0fb246bee"
+  integrity sha512-o6y2riRoa2U5MdzEJy83YcML+LySS6JPfcWuycxXroGND7WfN8Iwa+T83Fk0S96tdtDsuxQT5a6ETxg4CVh7nw==
+
+typeface-overpass@^0.0.72:
+  version "0.0.72"
+  resolved "https://registry.yarnpkg.com/typeface-overpass/-/typeface-overpass-0.0.72.tgz#d1f92deeacd6745cedcc0478923b6b0c7360c897"
+  integrity sha512-WEFhNZFDdJirSgCJQAuuCGPGSRXKiSM/HGLnA4bXYvE5tELXGrKph1v4NuSDQcsUJKvN8t8iZZmclkd069gPVA==
+
 typeface-roboto-mono@0.0.54:
   version "0.0.54"
   resolved "https://registry.yarnpkg.com/typeface-roboto-mono/-/typeface-roboto-mono-0.0.54.tgz#78e706e0a4158b2b670ed3cdf2269e7a54e671cd"

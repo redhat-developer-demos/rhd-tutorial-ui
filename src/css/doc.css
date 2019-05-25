@@ -2,7 +2,7 @@
   margin: 0 auto;
   max-width: 40rem;
   padding: 0 1rem 4rem;
-  color: #333;
+  color: var(--color-brand-black);
 }
 
 @media screen and (min-width: 1024px) {
@@ -461,7 +461,7 @@
   border: 1px solid #404040;
   border-radius: 100%;
   display: inline-block;
-  font-family: "Roboto", sans-serif;
+  font-family: "Overpass", sans-serif;
   font-size: 0.75rem;
   font-style: normal;
   height: 1.25em;
@@ -521,7 +521,7 @@ kbd,
 }
 
 .keyseq {
-  font-family: "Roboto Mono", monospace;
+  font-family: "Overpass Mono", monospace;
   font-size: 0.9em;
 }
 

@@ -1,4 +1,4 @@
-= Antora Default UI
+= Red Hat Developers Tutorials UI
 // Settings:
 :experimental:
 :hide-uri-scheme:
@@ -17,8 +17,6 @@
 :url-nvm: https://github.com/creationix/nvm
 :url-nvm-install: {url-nvm}#installation
 :url-yarn: https://yarnpkg.com
-
-image:{img-ci-status}[CI Status (GitLab CI), link={url-ci-pipelines}]
 
 This project is an archetype that demonstrates how to produce a UI bundle for use in a documentation site generated with {url-antora}[Antora].
 You can see a preview of the default UI at {url-preview}.
