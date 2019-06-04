@@ -8,7 +8,10 @@ html.is-clipped--nav {
   display: flex;
   flex-direction: column;
   /* help Chrome calculate the height correctly; must match .navigation value minus height of drawer */
-  height: calc(100vh - var(--navbar-height) - var(--toolbar-height) - var(--drawer-height));
+  height:
+    calc(
+      100vh - var(--navbar-height) - var(--toolbar-height) - var(--drawer-height)
+    );
 }
 
 @media screen and (min-width: 1024px) {
@@ -71,7 +74,7 @@ html.is-clipped--nav {
 }
 
 /* matches list without a title */
-.nav-item[data-depth="0"] > .nav-list:first-child {
+.nav-item[data-depth='0'] > .nav-list:first-child {
   display: block;
   margin: 0;
 }
@@ -101,6 +104,8 @@ html.is-clipped--nav {
 }
 
 .is-current-page > .nav-link,
-.is-current-page > .nav-text {
+.is-current-page > .nav-text,
+.is-current > .nav-link,
+.is-current > .nav-text {
   font-weight: 500;
 }
