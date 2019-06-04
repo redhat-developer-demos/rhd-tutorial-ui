@@ -19,7 +19,7 @@
 
 @font-face {
   font-family: 'OverPass';
-  font-style: normal;
+  font-style: bold;
   font-weight: 600;
   src:
     url(~typeface-overpass/files/overpass-latin-600.woff2) format('woff2'),

@@ -103,9 +103,6 @@ html.is-clipped--nav {
   transform: rotate(90deg);
 }
 
-.is-current-page > .nav-link,
-.is-current-page > .nav-text,
-.is-current > .nav-link,
-.is-current > .nav-text {
-  font-weight: 500;
+.is-current-page > .nav-link {
+  font-weight: 600;
 }
