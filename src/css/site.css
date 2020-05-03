@@ -1,5 +1,6 @@
-@import "typeface-overpass.css";
-@import "typeface-overpass-mono.css";
+@import "typeface-redhat-display.css";
+@import "typeface-redhat-text.css";
+@import "typeface-jetbrains-mono.css";
 @import "vars.css";
 @import "main.css";
 @import "base.css";

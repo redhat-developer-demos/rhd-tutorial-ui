@@ -46,10 +46,7 @@
     "stylelint": "~9.9",
     "stylelint-config-standard": "~18.2",
     "through2": "~3.0",
-    "typeface-overpass": "^0.0.72",
-    "typeface-overpass-mono": "^0.0.71",
-    "typeface-roboto": "0.0.54",
-    "typeface-roboto-mono": "0.0.54",
+    "typeface-jetbrains-mono": "^1.0.4",
     "vinyl-buffer": "~1.0",
     "vinyl-fs": "~3.0"
   }

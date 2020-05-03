@@ -461,7 +461,7 @@
   border: 1px solid #404040;
   border-radius: 100%;
   display: inline-block;
-  font-family: "Overpass", sans-serif;
+  font-family: "RedHatText", sans-serif;
   font-size: 0.75rem;
   font-style: normal;
   height: 1.25em;
@@ -521,7 +521,7 @@ kbd,
 }
 
 .keyseq {
-  font-family: "Overpass Mono", monospace;
+  font-family: "JetBrainsMono", monospace;
   font-size: 0.9em;
 }
 
