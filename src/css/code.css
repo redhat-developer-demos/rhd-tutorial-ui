@@ -1,0 +1,7 @@
+.doc .console-input pre.highlight code {
+  background-color: antiquewhite;
+}
+
+.doc .console-output pre.highlight code {
+  background-color: #E0FFFF;
+}

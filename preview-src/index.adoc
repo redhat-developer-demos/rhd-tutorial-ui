@@ -17,6 +17,25 @@ Vestibulum consectetur nec urna a luctus.
 Quisque pharetra tristique arcu fringilla dapibus.
 Curabitur ut massa aliquam, cursus enim et, accumsan lectus.
 
+== Console Snippets
+
+[.console-input]
+[source,bash]
+----
+This is a command
+----
+
+[.console-output]
+[source,bash]
+----
+This is a console output
+----
+
+[source,bash]
+----
+This is a regular code box
+----
+
 == Cu solet
 
 Nominavi luptatum eos, an vim hinc philosophia intellegebat.
