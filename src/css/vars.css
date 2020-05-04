@@ -34,6 +34,8 @@
   --scrollbar-thumb-color: var(--color-gray-10);
   /* navbar */
   --navbar-background: var(--color-jet-80);
+  --navbar-font-family: "RedHatDisplay", sans-serif;
+  --navbar-font-weight: 500;
   --navbar-font-color: var(--color-white);
   --navbar_hover-background: var(--color-black);
   --navbar-button-background: var(--color-white);
