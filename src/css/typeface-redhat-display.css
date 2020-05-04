@@ -1,0 +1,55 @@
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: normal;
+  font-weight: 400;
+  src: url(../font/RedHatDisplay-Regular.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: italic;
+  font-weight: 400;
+  src: url(../font/RedHatDisplay-Italic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: normal;
+  font-weight: 500;
+  src: url(../font/RedHatDisplay-Medium.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: italic;
+  font-weight: 500;
+  src: url(../font/RedHatDisplay-MediumItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: normal;
+  font-weight: 700;
+  src: url(../font/RedHatDisplay-Bold.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: italic;
+  font-weight: 700;
+  src: url(../font/RedHatDisplay-BoldItalic.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: normal;
+  font-weight: 900;
+  src: url(../font/RedHatDisplay-Black.woff) format("woff");
+}
+
+@font-face {
+  font-family: "RedHatDisplay";
+  font-style: italic;
+  font-weight: 900;
+  src: url(../font/RedHatDisplay-BlackItalic.woff) format("woff");
+}

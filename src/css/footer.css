@@ -13,3 +13,8 @@ footer.footer {
 .footer a {
   color: var(--footer-link-font-color);
 }
+
+.footer p.rhd-logo {
+  content: url(../img/NewRHDFullLogo_4-color.png);
+  width: 25%;
+}

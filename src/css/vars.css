@@ -23,9 +23,9 @@
   --body-font-size--print: 0.9375em; /* 15px */
   --body-line-height: 1.15;
   --body-font-color: var(--color-jet-70);
-  --body-font-family: "Roboto", sans-serif;
+  --body-font-family: "RedHatText", sans-serif;
   --body-font-weight-bold: 500;
-  --monospace-font-family: "Roboto Mono", monospace;
+  --monospace-font-family: "JetBrainsMono", monospace;
   --monospace-font-weight-bold: 500;
   /* base */
   --body-background: var(--color-white);
@@ -81,6 +81,7 @@
   --doc-line-height: 1.6;
   --doc-margin: 0 auto;
   --doc-margin--desktop: 0 2rem;
+  --heading-font-family: "RedHatDisplay", sans-serif;
   --heading-font-color: var(--color-jet-80);
   --heading-font-weight: normal;
   --alt-heading-font-weight: var(--body-font-weight-bold);
