@@ -33,6 +33,17 @@ so we can test the copy to clipboard button
 Single line command
 ----
 
+[.console-input]
+----
+Block, but no source identification
+----
+
+[.console-input]
+[source,bash]
+----
+Single long command to test if the copy to clipboard button is covering some of the text.
+----
+
 [.console-output]
 [source,bash]
 ----
