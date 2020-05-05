@@ -14,7 +14,7 @@ footer.footer {
   color: var(--footer-link-font-color);
 }
 
-.footer p.rhd-logo {
+.footer .rhd-logo {
   content: url(../img/NewRHDFullLogo_4-color.png);
-  width: 25%;
+  height: 50px;
 }
