@@ -1,0 +1,20 @@
+.copy-button {
+  background-color: transparent;
+  background-image: url('../img/clippy.svg');
+  background-size: 80% 80%;
+  background-repeat: no-repeat;
+  background-position: center;
+  border-bottom-width: 1px;
+  border-top-width: 1px;
+  border-left-width: 1px;
+  border-right-widht: 1px;
+  height: 30px;
+  width: 30px;
+  position: absolute;
+  top: 20px;
+  right: 2px;
+}
+
+.tooltipped {
+  position: absolute;
+}

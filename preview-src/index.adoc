@@ -23,6 +23,14 @@ Curabitur ut massa aliquam, cursus enim et, accumsan lectus.
 [source,bash]
 ----
 This is a command
+with multiple lines
+so we can test the copy to clipboard button
+----
+
+[.console-input]
+[source,bash]
+----
+Single line command
 ----
 
 [.console-output]
