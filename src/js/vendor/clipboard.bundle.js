@@ -2,7 +2,7 @@ var ClipboardJS = require('clipboard/dist/clipboard')
 
 var snippets = document.querySelectorAll('.console-input pre');
 [].forEach.call(snippets, function (snippet) {
-  var firstChild = snippet.querySelector('code');
+  var firstChild = snippet.querySelector('code')
   if (firstChild != null) {
     firstChild.insertAdjacentHTML('beforebegin', '<button class="copy-button" data-clipboard-snippet/>')
   }
