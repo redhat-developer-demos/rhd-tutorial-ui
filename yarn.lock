@@ -3559,10 +3559,10 @@ hex-color-regex@^1.1.0:
   resolved "https://registry.yarnpkg.com/hex-color-regex/-/hex-color-regex-1.1.0.tgz#4c06fccb4602fe2602b3c93df82d7e7dbf1a8a8e"
   integrity sha512-l9sfDFsuqtOqKDsQdqrMRk0U85RZc0RtOR9yPI7mRVOa4FsR/BVnZ0shmQRM96Ji99kYZP/7hn1cedc1+ApsTQ==
 
-highlight.js@~9.13:
-  version "9.13.1"
-  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-9.13.1.tgz#054586d53a6863311168488a0f58d6c505ce641e"
-  integrity sha512-Sc28JNQNDzaH6PORtRLMvif9RSn1mYuOoX3omVjnb0+HbpPygU2ALBI0R/wsiqCb4/fcp07Gdo8g+fhtFrQl6A==
+highlight.js@~10.1:
+  version "10.1.2"
+  resolved "https://registry.yarnpkg.com/highlight.js/-/highlight.js-10.1.2.tgz#c20db951ba1c22c055010648dfffd7b2a968e00c"
+  integrity sha512-Q39v/Mn5mfBlMff9r+zzA+gWxRsCRKwEMvYTiisLr/XUiFI/4puWt0Ojdko3R3JCNWGdOWaA5g/Yxqa23kC5AA==
 
 hmac-drbg@^1.0.0:
   version "1.0.1"
@@ -7709,11 +7709,6 @@ typeface-jetbrains-mono@^1.0.4:
   integrity sha512-IiVJNdLJ9rSy4f3Trx3eIlWEqJIc+HR2jc6d/yj+qOu8dsMM/xmj1cqkxns/zrmidfoMYTdh8y19V5MEwUSF9A==
   dependencies:
     napa "^3.0.0"
-
-typeface-overpass-mono@^0.0.71:
-  version "0.0.71"
-  resolved "https://registry.yarnpkg.com/typeface-overpass-mono/-/typeface-overpass-mono-0.0.71.tgz#9bfeb52ab8a2f509b7c414699daeeec0fb246bee"
-  integrity sha512-o6y2riRoa2U5MdzEJy83YcML+LySS6JPfcWuycxXroGND7WfN8Iwa+T83Fk0S96tdtDsuxQT5a6ETxg4CVh7nw==
 
 typescript-eslint-parser@^16.0.0:
   version "16.0.1"
