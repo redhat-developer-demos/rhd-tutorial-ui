@@ -6023,9 +6023,9 @@ postcss-values-parser@^2.0.1:
     uniq "^1.0.1"
 
 postcss@^7.0.0, postcss@^7.0.1, postcss@^7.0.14, postcss@^7.0.17, postcss@^7.0.2, postcss@^7.0.26, postcss@^7.0.27, postcss@^7.0.7:
-  version "7.0.28"
-  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.28.tgz#d349ced7743475717ba91f6810efb58c51fb5dbb"
-  integrity sha512-YU6nVhyWIsVtlNlnAj1fHTsUKW5qxm3KEgzq2Jj6KTEFOTK8QWR12eIDvrlWhiSTK8WIBFTBhOJV4DY6dUuEbw==
+  version "7.0.36"
+  resolved "https://registry.yarnpkg.com/postcss/-/postcss-7.0.36.tgz#056f8cffa939662a8f5905950c07d5285644dfcb"
+  integrity sha512-BebJSIUMwJHRH0HAQoxN4u1CN86glsrwsW0q7T+/m44eXOUAxSNdHRkNZPYz5vVUbg17hFgOQDE7fZk7li3pZw==
   dependencies:
     chalk "^2.4.2"
     source-map "^0.6.1"
@@ -7709,11 +7709,6 @@ typeface-jetbrains-mono@^1.0.4:
   integrity sha512-IiVJNdLJ9rSy4f3Trx3eIlWEqJIc+HR2jc6d/yj+qOu8dsMM/xmj1cqkxns/zrmidfoMYTdh8y19V5MEwUSF9A==
   dependencies:
     napa "^3.0.0"
-
-typeface-overpass-mono@^0.0.71:
-  version "0.0.71"
-  resolved "https://registry.yarnpkg.com/typeface-overpass-mono/-/typeface-overpass-mono-0.0.71.tgz#9bfeb52ab8a2f509b7c414699daeeec0fb246bee"
-  integrity sha512-o6y2riRoa2U5MdzEJy83YcML+LySS6JPfcWuycxXroGND7WfN8Iwa+T83Fk0S96tdtDsuxQT5a6ETxg4CVh7nw==
 
 typescript-eslint-parser@^16.0.0:
   version "16.0.1"
