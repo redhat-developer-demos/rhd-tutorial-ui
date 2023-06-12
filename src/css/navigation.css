@@ -5,11 +5,12 @@
 .navigation-container {
   display: none;
   position: fixed;
-  top: var(--navbar-height);
+  top: 0;
   left: 0;
   width: 100%;
   font-size: 0.9375rem;
   z-index: 1;
+  border: 1px solid #6A6E73;
 }
 
 .navigation-container.is-active {
@@ -34,10 +35,10 @@
 }
 
 .navigation {
-  background-color: #fafafa;
+  background-color: #151515;
   position: relative;
   top: var(--toolbar-height);
-  height: calc(100vh - var(--navbar-height) - var(--toolbar-height));
+  height: calc(100vh - var(--toolbar-height));
 }
 
 @media screen and (min-width: 769px) {

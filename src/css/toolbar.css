@@ -3,17 +3,18 @@
 }
 
 .toolbar {
-  color: #5d5d5d;
+  background: #151515;
+  color: #fff;
   align-items: center;
-  background-color: #fafafa;
   box-shadow: 0 1px 0 #e1e1e1;
   display: flex;
   font-size: 0.75rem;
   height: var(--toolbar-height);
   justify-content: flex-start;
   position: sticky;
-  top: var(--navbar-height);
+  top: 0;
   z-index: 1;
+  border-bottom: 1px solid #6A6E73;
 }
 
 .toolbar a,

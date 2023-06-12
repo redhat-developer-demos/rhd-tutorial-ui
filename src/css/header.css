@@ -7,7 +7,7 @@ html.is-clipped--navbar {
 }
 
 body {
-  padding-top: var(--navbar-height);
+  padding-top: 0;
 }
 
 .navbar {
@@ -177,7 +177,7 @@ body {
   }
 
   .navbar-menu {
-    background-color: #fff;
+    background-color: #151515;
     padding: 0.5rem 0;
   }
 
@@ -190,7 +190,7 @@ body {
 
   .navbar-menu a.navbar-item:hover,
   .navbar-menu .navbar-link:hover {
-    background-color: #fafafa;
+    background-color: #151515;
   }
 }
 
@@ -245,8 +245,8 @@ body {
   }
 
   .navbar-dropdown {
-    background-color: #fff;
-    border: 1px solid #e1e1e1;
+    background-color: #151515;
+    border: 1px solid #6A6E73;
     display: none;
     font-size: 0.875rem;
     top: 100%;
@@ -270,18 +270,18 @@ body {
   }
 
   .navbar-dropdown a.navbar-item:hover {
-    background-color: #fafafa;
+    background-color: #151515;
   }
 }
 
 .navbar .button {
   display: inline-flex;
   align-items: center;
-  background-color: #fff;
-  border: 1px solid #e1e1e1;
+  background-color: #151515;
+  border: 1px solid #6A6E73;
   border-radius: 0.15rem;
   height: 1.75rem;
-  color: #333;
+  color: #fff;
   padding: 0 0.75em;
   white-space: nowrap;
 }

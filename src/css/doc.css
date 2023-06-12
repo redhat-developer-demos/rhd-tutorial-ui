@@ -4,7 +4,9 @@
   padding: 0 1rem 4rem;
   color: var(--color-brand-black);
 }
-
+.doc .content {
+  color: #000;
+}
 @media screen and (min-width: 1024px) {
   .doc {
     margin: 0 2rem;
@@ -18,7 +20,7 @@
 .doc h4,
 .doc h5,
 .doc h6 {
-  color: #191919;
+  color: #fff;
   font-weight: normal;
   line-height: 1.3;
   margin: 1rem 0 0;
@@ -81,6 +83,7 @@
   background-color: #fafafa;
   padding: 0.075rem 0.25rem 0.125rem;
   border-radius: 0.2rem;
+  color: #151515;
   /* font-weight: 300; */
 }
 
@@ -248,7 +251,7 @@
 
 .doc .imageblock .title {
   /* color: #4a4a4a; */
-  color: #191919;
+  color: #fff;
   font-style: italic;
   margin-top: 0.5rem;
 }
@@ -370,7 +373,7 @@
 .doc .listingblock .title,
 .doc .openblock .title {
   /* color: #4a4a4a; */
-  color: #191919;
+  color: #fff;
   font-size: 0.925rem;
   font-style: italic;
   letter-spacing: -0.005em;
@@ -398,7 +401,7 @@
 }
 
 .doc .sidebarblock > .content > .title {
-  color: #191919;
+  color: #000;
   font-size: 1.2rem;
   font-weight: 500;
   line-height: 1.3;

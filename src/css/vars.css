@@ -1,6 +1,6 @@
 :root {
   /* primary */
-  --color-brand-black: #333;
+  --color-brand-black: #fff;
   --color-brand-red: #c00;
   --color-brand-red-dark: #820000;
   --color-brand-red-tint: #fcdedf;
@@ -8,7 +8,7 @@
   --color-brand-gray: #666;
   --color-brand-light-blue: #00ace0;
   --color-footer-black: #242424;
-  --color-text: #333;
+  --color-text: #fff;
   --color-navbar-bg: var(--color-brand-black);
   --color-navbar-text: var(--color-brand-white);
   --color-footer-bg: var(--color-footer-black);

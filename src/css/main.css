@@ -30,14 +30,13 @@
   }
 }
 
-@media screen and (min-width: 1024px) {
-  .main-wrapper {
-    display: flex;
-  }
+.main-wrapper {
+  display: flex;
+}
 
-  .main {
-    flex: auto;
-    /* min-width: 0 required for flexbox to constrain overflowing elements */
-    min-width: 0;
-  }
+.main {
+  flex: auto;
+  /* min-width: 0 required for flexbox to constrain overflowing elements */
+  min-width: 0;
+  border: 1px solid #6A6E73;
 }
